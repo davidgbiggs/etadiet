@@ -1,5 +1,6 @@
 # Etadiet
 ## A dietary automation tool meant to minimize time spent worrying about food without sacrificing health. The plan is based on the Insanity: Max 30 MAX OUT Nutrition guide, and rotates extremely low time-investment food options to the user on a weekly basis.
+#### The name "Etadiet" is a combination of "Eta" and "Diet." Eta is the Greek letter used to measure the efficiency of a Carnot heat engine in Thermodynamics, so it's married to the concept of efficiency. Diet.. well I'm sure you know what that is.
 ## Installation: Pre-Release as of this writing.
 
 
